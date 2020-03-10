@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gasperfriends/static/css/main.3d64cd0b.chunk.css",
+    "main.js": "/gasperfriends/static/js/main.5fd0b653.chunk.js",
+    "main.js.map": "/gasperfriends/static/js/main.5fd0b653.chunk.js.map",
+    "runtime-main.js": "/gasperfriends/static/js/runtime-main.2d3f5322.js",
+    "runtime-main.js.map": "/gasperfriends/static/js/runtime-main.2d3f5322.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/gasperfriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.773a8762.chunk.js": "/gasperfriends/static/js/2.773a8762.chunk.js",
+    "static/js/2.773a8762.chunk.js.map": "/gasperfriends/static/js/2.773a8762.chunk.js.map",
+    "index.html": "/gasperfriends/index.html",
+    "precache-manifest.3957cfbf2567992b4f7222e29b1de672.js": "/gasperfriends/precache-manifest.3957cfbf2567992b4f7222e29b1de672.js",
+    "service-worker.js": "/gasperfriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/gasperfriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.3d64cd0b.chunk.css.map": "/gasperfriends/static/css/main.3d64cd0b.chunk.css.map",
+    "static/js/2.773a8762.chunk.js.LICENSE.txt": "/gasperfriends/static/js/2.773a8762.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gasperfriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d3f5322.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.773a8762.chunk.js",
+    "static/css/main.3d64cd0b.chunk.css",
+    "static/js/main.5fd0b653.chunk.js"
+  ]
+}
